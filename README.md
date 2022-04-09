@@ -1,0 +1,2 @@
+# KaggleCompetitionAirbnb
+The competition was organized by Columbia University's Applied Analytics Program. The competition's goal was to build a model using the provided dataset and use it to predict the price of a set of Airbnb rentals contained in the rating data file. After cleaning and transforming the data, I split the data and trained them with linear regression, decision trees, and XGBoost models to have a low RMSE. as a result, the XGBoost model performed the best, and I ended up in the 29/631 (top 1%) position with an RMSE of 58.61444. 
